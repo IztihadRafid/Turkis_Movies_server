@@ -1,0 +1,69 @@
+.mybody{
+
+    background-image: url(ayasofia.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    width: 100%;
+
+    
+}
+.menu{
+    
+     text-align:center;
+     font-size: 170%;
+}
+ul li {
+    display: inline-block;
+}
+.my_movie_ser{
+    font-size: x-large;
+}
+.series_body{
+    background-image: url(horse.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: right;
+
+}
+#fix{
+    background-color:bisque;
+    color:brown ;
+    width: 25%;
+    height: 15%;
+    border-radius: 10px;
+}
+.heading_line:hover{
+    
+    font-size: 130%;
+    
+    padding-right: 0px ;
+    text-decoration: solid
+    ;
+}
+
+
+#about_body{
+    background-image: url(about.jpg);
+    background-size: cover;
+}
+.about_p{
+    margin-top: 5%;
+    width: 40%;
+    text-align: center;
+    font-size:small;
+
+}
+.contact_body{
+    background-image: url(leopard.jpg);
+    background-size: 100%;
+
+}
+.contacting:hover{
+    font-size: 160%;
+    color: chartreuse;
+}
+.back_to_home:hover{
+    font-size:130%;
+    color: hotpink;
+    
+}
